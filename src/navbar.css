@@ -1,0 +1,25 @@
+.navbar {
+  margin: 10px;
+  height: 40px;
+  background-color: rgba(56, 68, 77, .2);
+  border-radius: 10px;
+}
+
+.navbar-text {
+  opacity: 100%;
+  color: black;
+}
+
+.content-link {
+  color: rgba(32, 33, 36, .8);
+  text-decoration: none;
+}
+
+.spaced-width {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.content-link:hover {
+  color: rgba(32, 33, 36, 1);
+}

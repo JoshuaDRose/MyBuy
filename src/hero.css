@@ -1,0 +1,11 @@
+.hero-text {
+  background-color: #FFFFFF;
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* NOTE: removes overflow */
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #282A35;
+  margin: 10px;
+}
