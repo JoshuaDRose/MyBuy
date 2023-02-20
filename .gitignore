@@ -10,6 +10,4 @@
 *.sig
 
 pkg/
-src/
-
 node_modules/
