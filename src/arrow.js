@@ -1,5 +1,5 @@
-import './arrow.css';
-import './animate.css';
+import './css/arrow.css';
+import './css/animate.css';
 
 function Arrow() {
   return (
