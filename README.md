@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+<div align="center">
+<h1>MyBuy</h1>
+</div>
+
+<div align="center"><b>MyBuy</b> minimizes effort and maximizes experience, using leading development techniques to streamline <i>your</i> shopping experience.
+</div>
+>>>>>>> fff93316ad64c85d46aa961a317f24c6e8bd559d
